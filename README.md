@@ -16,6 +16,6 @@ The name is from `chain` and `rand`.
 
 - Python 3
 
-## LICENSE
+## License
 
 [MIT License](LICENSE)
