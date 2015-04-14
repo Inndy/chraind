@@ -2,7 +2,7 @@
 
 ## What is this?
 
-This is a lettory program that generate random seed from people's comments.
+This is a lottery program that generate random seed from people's comments.
 
 ## Naming
 
